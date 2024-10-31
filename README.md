@@ -1,5 +1,4 @@
 # boannews-crawling-output
-boannews-crawling-output
+### Update cycle: 1 hour (page 5)
 
-- [2024-10-31-boannews.csv](./2024-10/2024-10-31-boannews.csv)
-- [2024-10-31-boannews.csv](./2024-10/2024-10-31-boannews.csv)
+# output
