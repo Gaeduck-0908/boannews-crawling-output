@@ -2,7 +2,6 @@
 ### Update cycle: 6 hour (page 5)
 
 # output
-- [2024-11-30:21-34-39-boannews.csv](./2024-11/2024-11-30:21-34-39-boannews.csv)
 - [2024-12-01:03-23-46-boannews.csv](./2024-12/2024-12-01:03-23-46-boannews.csv)
 - [2024-12-01:10-48-03-boannews.csv](./2024-12/2024-12-01:10-48-03-boannews.csv)
 - [2024-12-01:15-26-55-boannews.csv](./2024-12/2024-12-01:15-26-55-boannews.csv)
